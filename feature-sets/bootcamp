@@ -1,0 +1,2 @@
+PLUGINS="wecube-plugins-wecmdb, wecube-plugins-saltstack, wecube-plugins-monitor"
+EXTRAS="plugin-config, demo-app"
