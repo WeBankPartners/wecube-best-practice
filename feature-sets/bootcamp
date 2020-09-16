@@ -1,2 +1,3 @@
 PLUGINS="wecube-plugins-wecmdb, wecube-plugins-saltstack, wecube-plugins-monitor"
-EXTRAS="demo-app"
+PLUGIN_CONFIG="bootcamp"
+ARTIFACTS="demo-app"
